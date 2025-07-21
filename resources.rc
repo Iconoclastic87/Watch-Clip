@@ -1,0 +1,5 @@
+#include "resource.h"
+
+IDR_WAV_PAUSE   WAVE    "pause.wav"
+IDR_WAV_RESUME  WAVE    "resume.wav"
+IDI_EWC_ICON    ICON    "EWC.ico"

@@ -1,0 +1,3 @@
+#define IDR_WAV_PAUSE   101
+#define IDR_WAV_RESUME  102
+#define IDI_EWC_ICON    103
