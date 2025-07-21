@@ -12,3 +12,5 @@ of limiting framerates which isn't as steady as using simple Windows API to free
 #Building instructions - Install chocolatey, and run in you powershell/cmd "choco install mingw".
 After that, you can edit the source code, replace the icon, or sounds (make sure new audios are compatible with the source via names and types).
 Once you adjust anything, you can build it with the pre added compiler command for mingw.
+
+Audios aren't from Rec Room ;)
